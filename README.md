@@ -179,6 +179,49 @@ End Module
 ```
 
 
+两行显示句子的源码
+
+```vb
+
+Imports system
+
+Module File6
+
+	Sub Main()
+	
+		dim tulisan1 as string
+		
+		dim nama as string
+		
+		' dim tulisan2 as string
+	
+		dim alamat as string
+		
+		
+		nama = "Steven"
+		
+		alamat = "Balikpapan"
+		
+		
+		tulisan1 = "Nama Lengkap : " & nama & vbCrlf & "Alamat : " & alamat
+		
+		Console.writeline(tulisan1)
+		
+		Console.readline()
+		
+	
+	End Sub
+
+End Module
+
+
+
+
+```
+
+
+
+
 
 
 
