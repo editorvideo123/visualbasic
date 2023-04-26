@@ -17,3 +17,13 @@ visual basic .net 的使用
 
 ```
 
+
+
+用于运行 Visual Basic 项目的命令
+
+
+```
+
+  dotnet run
+
+```
