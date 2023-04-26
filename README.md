@@ -109,6 +109,43 @@ End Module
 ```
 
 
+它是显示算术运算之一的源代码
+
+这是加法
+
+
+```vb
+
+Imports system
+
+Module File4
+
+	Sub Main()
+	
+	
+	dim x as integer
+	
+	dim y as integer
+	
+	
+		x = 20
+		y = 25
+		
+		
+		console.writeline(x + y)
+		
+		console.readline()
+	
+	End Sub
+	
+End Module
+
+
+```
+
+
+
+
 
 
 
