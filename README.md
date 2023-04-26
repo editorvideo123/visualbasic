@@ -144,7 +144,39 @@ End Module
 ```
 
 
+显示构成语句的两个变量内容的源码
 
+
+```vb
+
+Imports system
+
+Module File5
+
+
+	Sub Main()
+	
+		dim tulisan as string
+		
+		dim nama as string
+		
+		nama = "Steven"
+		
+		tulisan = "Nama : " & nama
+
+
+		Console.WriteLine(tulisan)
+		
+		Console.ReadLine()
+	
+	
+	
+	End sub
+
+End Module
+
+
+```
 
 
 
